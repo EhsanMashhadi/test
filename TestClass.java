@@ -1,6 +1,6 @@
 class TestClass{
 
-public void testMethod(){
+public void testMethod(String a){
 
 }
 
