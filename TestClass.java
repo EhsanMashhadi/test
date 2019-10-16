@@ -4,7 +4,7 @@ public void testMethod(String a){
 
 }
 
-public void testMethod2(int a){
+public void testMethod2(int a, int b){
 
 }
 
